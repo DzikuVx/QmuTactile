@@ -2,6 +2,12 @@
 
 QmuTactile is a simple button support library for all Arduino compatible boards. Main target is so called `debounce` but also `SHORT PRESS` `LONG PRESS` and `PRESSING` support
 
+## Installation
+
+1. Download ZIP file (`Clone or download` button)
+2. Unzip to `Arduino/libraries` folder
+3. `#include "QmuTactile.h"` in your sketch
+
 ## Example usage
 
 ```
